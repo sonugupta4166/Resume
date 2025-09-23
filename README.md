@@ -1,4 +1,3 @@
-https://github.com/sonugupta4166/Resume/blob/main/SonuKumarCV1.pdf
 # Sonu Kumar - Resume
 
 👋 Hi, I’m **Sonu Kumar**  

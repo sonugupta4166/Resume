@@ -1,4 +1,4 @@
-# Sonu Kumar - Resume
+# Resume
 
 👋 Hi, I’m **Sonu Kumar**  
 🎓 BE in Computer Science & Engineering  

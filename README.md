@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Resume
-📄 [Download My Resume](https://github.com/sonugupta4166/Resume/blob/main/SonuKumarCV1.pdf))  
+📄 [Download My Resume](https://github.com/sonugupta4166/Resume.git))  
 
 ---
 
